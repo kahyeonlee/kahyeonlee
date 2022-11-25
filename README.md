@@ -10,9 +10,8 @@
 
 <h3 align="center"> 👩‍💻 My Github Stats 👩‍💻 </h3>
 
-<div align = "center">
 ![kahyeonlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahyeonlee&theme=great-gatsby&show_icons=true)
-</div>
+
 
 <div align = "center">
 [![kahyeonlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahyeonlee&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
