@@ -1,12 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFD700&height=200&section=header&text=ka_hyun&animation=scaleIn&fontSize=60&fontAlignY=40)
-<div align = "center">
-- 👋 Hi, I’m @kahyeonlee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-</div>
+
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
