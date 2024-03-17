@@ -2,22 +2,26 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFD700&height=200&section=header&text=ka_hyun&animation=scaleIn&fontSize=60&fontAlignY=40)
 
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-</p>
+## 👩‍💻 Introduction
+개발팀과 비개발팀과 원활한 소통을 추구하는 백엔드 개발자 `이가현` 입니다.
 
 
+## 💻 Projects
 
-<h3 align="center"> 👩‍💻 My Github Stats 👩‍💻 </h3>
-<div align="center">
+🏊‍♀️어푸어푸 (2023.09)
+* 수영장 검색/리뷰와 수영 관련 커뮤니티 
 
-[![kahyeonlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahyeonlee&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+🏛My Academy (2023.01 ~ 2023.02)
+* 소규모 학원들의 수강생/강사 관리 및 결제 관리 웹사이트 
 
+
+## 🏃‍♂️ Education
+
+* 원티드 프리온보딩 aws를 활용한 시스템 아키텍쳐 설계 (2024.03) 
+
+* 멋쟁이사자처럼 백엔드 스쿨 2기 ( 2022.09 ~ 2023.02 )
+
+	- 개인/팀 웹 서비스 개발/배포 및 협업 경험
+
+  - 우수 프로젝트상 수상
+  - 우수 수료생 선정
